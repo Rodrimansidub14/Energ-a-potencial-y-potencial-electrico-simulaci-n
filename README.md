@@ -22,8 +22,7 @@ El programa simula y permite visualizar el escenario de la energía potencial de
    - Ingresar parametros
    - Seleccionar la párticula a disparar o ingrese carga y masa
    - Para ingresar una velocidad arbitraria seleccionar en el menu desplegable "valor absoluto"
-   - 
-   - 
+  
 ### Video
 [Video](https://youtu.be/djnsB2HqhRc?feature=shared)
 
