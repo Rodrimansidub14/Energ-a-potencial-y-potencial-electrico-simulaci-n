@@ -2,18 +2,21 @@
 ###Rodrigo Mansilla 22611
 ### Física 3
 ### Parcial 2
-### Project Overview
+
+##Descripción
 
 El programa simula y permite visualizar el escenario de la energía potencial debido a cargas centrales y párticulas disparadas desde su superficie.
 
 
-### Prerequisites
 
-### Installation & Setup
 
-1. Instalar el programa
-2. Correr el programa
-3. Ingresar los parámetros
+### Setup
+
+1. Clonar el repositorio en visual studio code
+2. correr el programa
+3. Instalar el programa
+4. Correr el programa
+5. Ingresar los parámetros
    - Acepta notación científica
    - Seleccionar el tipo de carga central en el menu desplegable (plano o esféra)
    - Ingresar parametros
