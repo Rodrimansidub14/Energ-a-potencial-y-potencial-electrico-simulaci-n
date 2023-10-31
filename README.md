@@ -3,7 +3,7 @@
 ### Física 3
 ### Parcial 2
 
-##Descripción
+## Descripción
 
 El programa simula y permite visualizar el escenario de la energía potencial debido a cargas centrales y párticulas disparadas desde su superficie.
 
