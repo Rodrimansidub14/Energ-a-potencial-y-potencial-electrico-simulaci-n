@@ -1,5 +1,5 @@
 ## Simulación de Campo eléctrico en Python
-###Rodrigo Mansilla 22611
+### Rodrigo Mansilla 22611
 ### Física 3
 ### Parcial 2
 
